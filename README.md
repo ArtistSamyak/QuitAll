@@ -1,4 +1,4 @@
-# QuitAll 🚀  
+# QuitAll 🔴
 
 **QuitAll** is a lightweight macOS utility that instantly closes all running applications — leaving only the essential system processes alive.  
 Think of it as a "panic button" or "clean slate" switch when your Mac is overloaded with apps, or you just want a fresh start. 
